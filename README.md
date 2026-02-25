@@ -3,7 +3,7 @@
 **Author:** Bhavaneeth Parnapalli | Data Science @ University of Texas at Dallas  
 **Tech Stack:** Python, SQL, Pandas, Scikit-Learn, XGBoost, Tableau  
 
-![Dashboard Preview](Dashboard%201.png)
+![Dashboard Preview](Dashboard 1.png)
 *(👉 **[Click here to interact with the live Tableau Dashboard](https://public.tableau.com/views/Loan_Default_Risk_Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**)*
 
 ---
